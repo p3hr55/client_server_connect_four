@@ -1,0 +1,9 @@
+E:\Connect4p\PACKET\bin\Debug\PACKET.dll
+E:\Connect4p\PACKET\bin\Debug\PACKET.pdb
+E:\Connect4p\PACKET\obj\Debug\PACKET.csprojResolveAssemblyReference.cache
+E:\Connect4p\PACKET\obj\Debug\PACKET.dll
+E:\Connect4p\PACKET\obj\Debug\PACKET.pdb
+C:\Users\Brandon\Desktop\Connect4p\PACKET\bin\Debug\PACKET.dll
+C:\Users\Brandon\Desktop\Connect4p\PACKET\bin\Debug\PACKET.pdb
+C:\Users\Brandon\Desktop\Connect4p\PACKET\obj\Debug\PACKET.dll
+C:\Users\Brandon\Desktop\Connect4p\PACKET\obj\Debug\PACKET.pdb
